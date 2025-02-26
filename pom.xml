@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.natwest</groupId>
-	<artifactId>natwest-prob</artifactId>
+	<artifactId>prob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>natwest-prob</name>
 	<description>Natwest Prob</description>
